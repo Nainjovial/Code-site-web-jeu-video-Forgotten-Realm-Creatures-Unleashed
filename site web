@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.0">
+    <header>
+    <img src="8-zjN073U0bxo5F8y.png" alt="texte alternatif" width="10%" height="10%" style="float:high left;">
+</header>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #b1b1b1;
+        }
+
+        header {
+            background-color: #211125;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #522b5c;
+            padding: 1em;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5em;
+            margin: 0 1em;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        footer {
+            background-color: #9957aa;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Forgotten Realm: Creatures Unleashed</h1>
+		<h1> </h1>
+    </header>
+
+    <nav>
+        <a href="#">Accueil</a>
+        <a href="#">Téléchargement Du Jeux</a>
+        <a href="#">Avis</a>
+		<a href="#">Présentation Du Contenu</a>
+    </nav>
+
+    <section>
+        <h2>Téléchargement Du Jeu</h2>
+        <h4>Explorez notre monde a travers ce jeu fraichement crée (lien a prevoir).</h4>
+    </section>
+
+    <section>
+        <h2>Meilleurs Avis</h2>
+        <h4>Consultez les avis de notre communauté de joueurs.</h4>
+        <img src="image avis 1.png" width="35%" height="35%" style="float:high left;">
+		<img src="image avis 2.png" width="35%" height="35%" style="float:high left;">
+    </section>
+	
+	<section>
+        <h1>Présentation Du Contenu</h1>
+        <h3>LE CHEVALIER</h3>
+		<img src="perso chevalier .jpg" width="35%" height="35%" style="float:high left;">
+		<h4>Ce valeureux chevalier, après de nombreuses péripéties, il s'est mis en tête de combattre l'affreuse créature : Aatrox le devoreur de monde... Aide le a faire les bons choix et a battre Aatrox </h4>
+        <h3>L'ARCHERE</h3>
+		<img src="perso archere test 1 .jpg" width="35%" height="35%" style="float:high left;">
+		<h4>Cette archere, aux allures de Lara Croft, parcourt et protege une foret dense... Et un beau jour elle vit au loin une grande tour... C'était un donjon!!!! Incarne la et aide la a vaincre Aatrox</h4>
+        </section>
+		
+	    <section>
+		<h1>LE MOTS DE LA FIN</h1>
+        <h4>Maintenant a vous de jouer!!! Faites attention vos choix ont des consequences sur ce jeux... 😉 </h4>
+		</section>
+	
+    <footer>
+        <p>&copy; 2023-2024 Forgotten Realm: Creatures Unleashed. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
